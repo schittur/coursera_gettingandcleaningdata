@@ -32,6 +32,7 @@ average_tGravityAccMag_mean|double
 ---------------------------|------
   |Average of mean magnitude of gravity acceleration grouped by Subject and Activity
                         | -1.0 .. +1.0
+                        
 average_tGravityAccMag_std|double
 ---------------------------|------
   |Average of standard deviation of magnitude of gravity acceleration grouped by Subject and Activity

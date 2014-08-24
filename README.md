@@ -1,7 +1,6 @@
-Getting  and cleaning Data project - run_Analysis.R script
-=========
+##Getting  and cleaning Data project - run_Analysis.R script
 
-Prerequisities:
+####Prerequisities:
   - Set the working directory to the unzipped data files folder before running the script. This Script loads the data files using relative paths like test\X_test.txt etc.
   - "plyr" package is required.
 

@@ -8,8 +8,8 @@ Prerequisities:
 `````
 Note: I named all the variables in the script with a prefix of "my." so that they do not clash with any R reserved names
 `````
-How the code works
------------
+##How the script works
+
 ####Loading the raw data set
 * script loads the subjects file, activities file and readings file in that order and combines using cbind() function
 * training data is loaded from .\train and test data from .\test folders

@@ -47,6 +47,6 @@ colnames(my.data) <- sub("-", "_", colnames(my.data));
 library(plyr);
 my.tidyDataset <- ddply(my.data, .(Subject, Activity), numcolwise(mean));
 # prefix column names with mean_, retain Subject and Activity column names 
-colnames(my.tidyDataset) <- paste("mean_", colnames(my.tidyDataset), sep="");
+colnames(my.tidyDataset) <- paste("average_", colnames(my.tidyDataset), sep="");
 colnames(my.tidyDataset)[1] <- "Subject";
 colnames(my.tidyDataset)[2] <- "Activity";

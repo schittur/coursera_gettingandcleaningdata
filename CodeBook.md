@@ -20,23 +20,27 @@ Activity|Character string
 
 average_tBodyAccMag_mean|double
 ------------------------|------
-                        |Mean of magnitude of body acceleration mean
+                        |Average of magnitude of body acceleration mean grouped by Subject and Activity
 
 average_tBodyAccMag_std|double
 -----------------------|------
-                       |Mean of magnitude of body acceleration mean
+                       |Average of standard deviation of magnitude of body acceleration grouped by Subject and Activity
                            
 average_tGravityAccMag_mean|double
 ---------------------------|------
+  |Average of mean magnitude of gravity acceleration grouped by Subject and Activity
 
 average_tGravityAccMag_std|double
 ---------------------------|------
+  |Average of standard deviation of magnitude of gravity acceleration grouped by Subject and Activity
 
 average_tBodyAccJerkMag_mean|double
 ---------------------------|------
+  |Average of mean magnitude of body acceleration jerk grouped by Subject and Activity
 
 average_tBodyAccJerkMag_std|double
 ---------------------------|------
+  |Average of standard deviation of magnitude of body acceleration jerk grouped by Subject and Activity
 
 average_tBodyGyroMag_mean|double
 ---------------------------|------

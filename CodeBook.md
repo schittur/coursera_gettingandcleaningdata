@@ -44,36 +44,48 @@ average_tBodyAccJerkMag_std|double
 
 average_tBodyGyroMag_mean|double
 ---------------------------|------
+  |Average of mean of magnitude of body gyro grouped by Subject and Activity
 
 average_tBodyGyroMag_std|double
 ---------------------------|------
+ |Average of standard deviation of magnitude of body gyro grouped by Subject and Activity
 
 average_tBodyGyroJerkMag_mean|double
 ---------------------------|------
+ |Average of mean of magnitude of body gyro jerk grouped by Subject and Activity
 
 average_tBodyGyroJerkMag_std|double
 ---------------------------|------
+ |Average of standard deviation of magnitude of body gyro jerk grouped by Subject and Activity
 
 average_fBodyAccMag_mean|double
 ---------------------------|------
-
+ |Average of mean of frequency of body accelearation grouped by Subject and Activity
+ 
 average_fBodyAccMag_std|double
 ---------------------------|------
-
+ |Average of standard deviation of frequency of body acceleration grouped by Subject and Activity
+ 
 average_fBodyBodyAccJerkMag_mean|double
 ---------------------------|------
+ |Average of mean of frequency of body acceleation jerk grouped by Subject and Activity
 
 average_fBodyBodyAccJerkMag_std|double
 ---------------------------|------
-
+ |Average of standard deviation of magnitude of body body accelearation jerk grouped by Subject and Activity
+ 
 average_fBodyBodyGyroMag_mean|double
 ---------------------------|------
+ |Average of mean of magnitude of body body gyro grouped by Subject and Activity
 
 average_fBodyBodyGyroMag_std|double
 ---------------------------|------
+ |Average of standard deviation of magnitude of body body gyro grouped by Subject and Activity
 
 average_fBodyBodyGyroJerkMag_mean|double
 ---------------------------|------
+ |Average of mean of magnitude of body body gyro jerk grouped by Subject and Activity
 
 average_fBodyBodyGyroJerkMag_std|double
 ---------------------------|------
+ |Average of standard deviation of magnitude of body body gyro jerk grouped by Subject and Activity
